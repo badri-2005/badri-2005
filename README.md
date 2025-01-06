@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 🔭 I’m currently working on some exciting open-source projects.
-- 🌱 I’m learning about Web Development.
+- 🔭 I’m currently pusing my engineering degree in Computer Science and developing projects related to my domain.
+- 🌱 I’m currently developing skills in Web Development.
 - 🎯 My goal for 2025 is to contribute more to the developer community.
 
 ## 💻 Tech Stack
