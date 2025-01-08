@@ -21,4 +21,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **LinkedIn**: [Badri](https://www.linkedin.com/in/badri-2005/)
 - **Email**: [badrinarayananramkumar@gmail.com](mailto:badrinarayananramkumar@gmail.com)
 
-Thanks for stopping by! Have a great day! 😄
+Thanks for stopping by! Have a great day!!😄
+
