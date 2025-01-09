@@ -8,9 +8,9 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, C
+- **Languages**: Python, JavaScript, C, C++
 - **Frameworks**: React
-- **Tools**: Git,  VS Code
+- **Tools**: Git,  VS Code , Figma
 
 ## 📈 GitHub Stats
 
