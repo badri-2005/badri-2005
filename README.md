@@ -62,4 +62,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badri-2005&show_icons=true&theme=dark&locale=en" alt="badri-2005" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=badri-2005&" alt="badri-2005" /></p>
