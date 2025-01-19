@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Fin-Quest**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs and JAVA**
 
 - 👯 I’m looking to collaborate on **Mern**
-
-- 🤝 I’m looking for help with **Mern**
 
 - 💬 Ask me about **Html,Css,JavaScript**
 
 - 📫 How to reach me **badrinarayananramkumar@gmail.com**
+
+- Leetcode - **https://leetcode.com/u/badrinarayananramkumar/**
 
 
 
