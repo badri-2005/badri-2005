@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
 - 🔭 I’m currently working on **Fin-Quest** a Fianance Educator Website.
 
