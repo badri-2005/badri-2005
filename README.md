@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
-- 🔭 I’m currently working on **Fin-Quest**
+- 🔭 I’m currently working on **Fin-Quest** a Fianance Educator Website.
 
 - 🌱 I’m currently learning **Reactjs and JAVA**
 
