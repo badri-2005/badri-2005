@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fin-Quest** a Fianance Educator Website.
 
-- 🌱 I’m currently learning **Reactjs and JAVA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Mern**
 
