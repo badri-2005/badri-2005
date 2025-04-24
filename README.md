@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Mern**
+- 👯 I’m looking to collaborate on **MERN and Machine Learning**
 
-- 💬 Ask me about **Html,Css,JavaScript**
+- 💬 Ask me about **MERN and Regression Models**
 
 - 📫 How to reach me **badrinarayananramkumar@gmail.com**
 
