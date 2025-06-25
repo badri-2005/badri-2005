@@ -1,69 +1,97 @@
-<h1 align="center">Hi 👋, I'm Badri Narayanan B R</h1>
-<h3 align="center">A passionate Web Developer and AI Enthusiast </h3>
+
+<h1 align="center">Hello Folks! 👋 I'm Badri Narayanan B R</h1>
+<h3 align="center">A Passionate Frontend Developer & AI Enthusiast</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-- 🔭 I’m currently working on **Fin-Quest** a Fianance Educator Website.
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **MERN and Machine Learning**
-
-- 💬 Ask me about **MERN and Regression Models**
-
-- 📫 How to reach me **badrinarayananramkumar@gmail.com**
-
-- Leetcode - **https://leetcode.com/u/badrinarayananramkumar/**
-
-- Portfolio - **https://personal-portfolio-rtyz.onrender.com/**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/badri narayanan b r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Badri Narayanan B R" height="30" width="40" /></a>
-  
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badri-2005&label=Profile%20views&color=0e75b6&style=flat" alt="badri-2005" />
 </p>
 
+---
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left"> Programming Languages</h3>
-  <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/></a>
-    
-  <br>
-  </p>
+## 🚀 About Me
 
-<h3 align="left">Frameworks and libraries</h3>
+- 🔭 I’m currently working on **Machine Learning Projects**
+- 🌱 I’m currently learning **ML Algorithms & Big Data Tools**
+- 👯 I’m looking to collaborate on **AI and Full-Stack Projects**
+- 💬 Ask me about **React, Python, Classification Models**
+- 📫 Reach me at: **badrinarayananramkumar@gmail.com**
+- 🧾 Portfolio : [View My Portfolio](https://personal-portfolio-rtyz.onrender.com/)
+- 👨‍💻 LeetCode : [Profile](https://leetcode.com/u/badrinarayananramkumar/)
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/badri-narayanan-b-r-8ab5a6246" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/badrinarayananramkumar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="tailwind" width="40" height="40"/>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <br>
-  </p>
- 
-<h3 align="left">Version control and Testing</h3>
-<p align="left">
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <br>
- </p>
+---
 
-<h3 align="left">Other Environment and Tools</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+## 💻 Tech Stack
+
+### 🌐 Frontend
 <br>
- </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badri-2005&show_icons=true&theme=onedark&locale=en&layout=compact" alt="badri-2005" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</p>
 
+### 🖥️ Backend & Tools
+<br>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badri-2005&show_icons=true&theme=dark&locale=en" alt="badri-2005" /></p>
+### 🧠 AI / ML / Data
+<br>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+</p>
 
+### 🔤 Other Languages
+<br>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+</p>
+
+---
+<br>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badri-2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badri-2005&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=badri-2005&theme=onedark" alt="badri-2005" />
+  </a>
+</p>
 
