@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello Folks! 👋 I'm Badri Narayanan B R</h1>
+<h1 align="center">Hello Folks! <br>
+👋 I'm Badri Narayanan B R</h1>
 <h3 align="center">A Passionate Frontend Developer & AI Enthusiast</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
