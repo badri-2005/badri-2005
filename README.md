@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 I’m currently learning **ML Algorithms & Big Data Tools**
+- 🔭 I’m currently working on **Backend Project using MERN**
+- 🌱 I’m currently learning **EndPoint Integration and Data Engineering**
 - 👯 I’m looking to collaborate on **AI and Full-Stack Projects**
-- 💬 Ask me about **React, Python, Classification Models**
+- 💬 Ask me about **Java , MERN**
 - 📫 Reach me at: **badrinarayananramkumar@gmail.com**
 - 🧾 Portfolio : [View My Portfolio](https://personal-portfolio-rtyz.onrender.com/)
 - 👨‍💻 LeetCode : [Profile](https://leetcode.com/u/badrinarayananramkumar/)
