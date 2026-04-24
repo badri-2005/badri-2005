@@ -58,8 +58,7 @@
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman,github,figma,vscode,linux,cursor,swagger" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,postman,github,figma,vscode,linux,cursor,swagger" /></p>
 
 
 ### 🧠 AI / ML / Data
