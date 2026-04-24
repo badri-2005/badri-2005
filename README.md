@@ -58,7 +58,7 @@
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman,github,figma,vscode,linux,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,postman,github,figma,vscode,linux,cursor,swagger" />
 </p>
 
 
