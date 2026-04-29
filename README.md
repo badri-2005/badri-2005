@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **DevNoteX**
-- 🌱 I’m currently learning **Fast API and Langchain**
+- 🌱 I’m currently learning **Data Engineering**
 - 👯 I’m looking to collaborate on **AI Related Projects**
 - 🤝 I am a proud **Rotaractor**
 - 🧾 Portfolio : [View My Portfolio](https://personal-portfolio-rtyz.onrender.com/)
